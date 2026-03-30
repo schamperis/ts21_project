@@ -1,5 +1,4 @@
 # ts21_project
 Re-analysis of Marderstein et al. (2024) data
 
-These notebooks contain placeholder paths rooted at /path/to/nature_study.
-Before running them, replace /path/to/nature_study with the local path to your project directory.
+Path setup: The notebooks use /path/to/nature_study as a placeholder root directory. Update this path to your local project location before running the analyses.
